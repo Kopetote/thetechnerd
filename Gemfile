@@ -6,3 +6,5 @@ gem 'rspec'
 gem "webrick", "~> 1.8"
 gem "jekyll", "~> 4.0"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-github-metadata"
+ gem 'jekyll-archives'
