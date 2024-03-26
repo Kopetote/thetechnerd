@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Hello World Posts",
-        "excerpt":"## First ever use Github and Jekyll   This is body text, doesn’t that matter  ","categories": [],
+        "title": "Selamat Datang!",
+        "excerpt":"Halo Masyarakat Internet! Terima kasih udah dateng ke Github Page-ku. Di Page ini aku bakal sharing hal-hal teknis yang engga ada di Channel YouTube-ku. Di Pilot Episode Aku udah jelasin seri YouTube yang akan ku buat adalah Home Lab PC dan pada post selanjutnya aku akan memberikan bagaimana cara install...","categories": [],
         "tags": [],
-        "url": "/hello-world-posts/",
+        "url": "/Welcome/",
         "teaser": null
       }]
