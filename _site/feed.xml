@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-24T06:29:58+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">thetechnerd’s Guides</title><subtitle>Website untuk membantu kamu mencoba project dari Channel YouTube Farrell Azhar</subtitle><author><name>Farrell Azhar</name></author><entry><title type="html">Selamat Datang!</title><link href="http://localhost:4000/Welcome/" rel="alternate" type="text/html" title="Selamat Datang!" /><published>2024-03-19T00:00:00+07:00</published><updated>2024-03-19T00:00:00+07:00</updated><id>http://localhost:4000/Welcome</id><content type="html" xml:base="http://localhost:4000/Welcome/"><![CDATA[<p>Halo Masyarakat Internet!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-16T17:29:00+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">thetechnerd’s Guides</title><subtitle>Website untuk membantu kamu mencoba project dari Channel YouTube Farrell Azhar</subtitle><author><name>Farrell Azhar</name></author><entry><title type="html">Selamat Datang!</title><link href="http://localhost:4000/Welcome/" rel="alternate" type="text/html" title="Selamat Datang!" /><published>2024-06-16T00:00:00+07:00</published><updated>2024-06-16T00:00:00+07:00</updated><id>http://localhost:4000/Welcome</id><content type="html" xml:base="http://localhost:4000/Welcome/"><![CDATA[<p>Halo Masyarakat Internet!</p>
 
-<p>Terima kasih udah dateng ke Github Page-ku. Di Page ini aku bakal sharing hal-hal teknis yang engga ada di Channel YouTube-ku. Di <strong>Pilot Episode</strong> Aku udah jelasin seri YouTube yang akan ku buat adalah <strong>Home Lab PC</strong> dan pada post selanjutnya aku akan memberikan bagaimana cara install Proxmox sebagai based <strong>Home Lab PC</strong> dan menginstall Container sebagai tempat install Docker seperti Nextcloud, Jellyfin, Photoprism dll.</p>
+<p>Selamat datang di Github Page-ku. Github Pages ini akan menjadi blog untuk project-project engga ngotak / ngotak yang aku lakukan, seperti menggunakan iPhone IMEI ter block, menggunakan Arch Linux tanpa archinstall di laptop kerja, menggunakan komputer full TTY / CLI sebagai wind down computer, dan project lainnya lagi.</p>
 
-<p><strong>Disclaimer:</strong> Aku bukan expert dibidang server / home lab, tapi aku hanya ingin share project ini sebagai computer nerd yang suka coba-coba segala hal, jadi kalau kamu lebih paham soal server dan home lab, kamu bisa diskusi di Comment YouTube, Email, dan atau Mastodon yang ada di bawah Page ini</p>
+<p>Untuk kali ini, salam kenal, aku Farrell Azhar, orang-orang bilang sih aku si paling riweuh atau paling ngerepotin diri sendiri, nanti juga kamu bakal tau kenapa.</p>
+
+<p>Kali ini segitu aja, liat aja postingan selanjutnya!</p>
 
 <hr />
 
-<p>Say Halo ke: <a href="mailto:methetechnerd@duck.com">Email</a> <a href="https://mastodon.social/@Kopetote">Mastodon</a></p>
+<p>Say Halo ke:</p>
+<ul>
+  <li>Email: <a href="mailto:methetechnerd@duck.com">Email</a></li>
+  <li>Mastodon:<a href="https://mastodon.social/@Kopetote">Mastodon</a></li>
+</ul>
 
 <p>Donasi: <a href="https://saweria.com/kopetote">Saweria</a></p>]]></content><author><name>Farrell Azhar</name></author><summary type="html"><![CDATA[Halo Masyarakat Internet!]]></summary></entry></feed>
