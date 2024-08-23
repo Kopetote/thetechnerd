@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-23T13:29:09+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">thetechnerd’s Guides</title><subtitle></subtitle><author><name>Farrell Azhar</name></author><entry><title type="html">Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja</title><link href="http://localhost:4000/Swaywm/" rel="alternate" type="text/html" title="Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja" /><published>2024-08-23T00:00:00+07:00</published><updated>2024-08-23T00:00:00+07:00</updated><id>http://localhost:4000/Swaywm</id><content type="html" xml:base="http://localhost:4000/Swaywm/"><![CDATA[<p>Dari desktop jaman dulu seperti DOS yang menggunakan <em>command-line</em>, ke Macintosh yang sangat populer sekali dengan UI nya, sampai saat ini hampir semua orang familier dengan desktop seperti Windows dan macOS dengan <em>floating window</em> nya, namun bagaimana jika kamu menghilangkan <em>floating window</em> namun memiliki produktivitas lebih? Mungkin ini lah yang: <strong>less is more</strong>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-23T13:45:44+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">thetechnerd’s Guides</title><subtitle></subtitle><author><name>Farrell Azhar</name></author><entry><title type="html">Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja</title><link href="http://localhost:4000/Swaywm/" rel="alternate" type="text/html" title="Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja" /><published>2024-08-23T00:00:00+07:00</published><updated>2024-08-23T00:00:00+07:00</updated><id>http://localhost:4000/Swaywm</id><content type="html" xml:base="http://localhost:4000/Swaywm/"><![CDATA[<p>Dari desktop jaman dulu seperti DOS yang menggunakan <em>command-line</em>, ke Macintosh yang sangat populer sekali dengan UI nya, sampai saat ini hampir semua orang familier dengan desktop seperti Windows dan macOS dengan <em>floating window</em> nya, namun bagaimana jika kamu menghilangkan <em>floating window</em> namun memiliki produktivitas lebih? Mungkin ini lah yang: <strong>less is more</strong>.</p>
 
-<p><img src="/assets/images/post_02_02.jpg" alt="cover" width="700" /></p>
+<p><img src="/assets/images/post_02_02.jpg" alt="cover" /></p>
 
 <p>Jika kamu berharap ini adalah hal yang bisa merubah bagaimana komputer itu digunakan, sebenarnya tidak juga, bahkan aku bisa bilang ini adalah desktop yang <em>janky</em> jika kamu bandingin dengan Windows dan macOS yang <em>eye-candy</em> banget buat penggunanya.</p>
 
 <p>Kenalin, Tiling Window Manager, namanya Sway.</p>
 
-<p><img src="/assets/images/post_02_07_Sway_Desktop.png" alt="sway" width="500" /></p>
+<p><img src="/assets/images/post_02_07_Sway_Desktop.png" alt="sway" /></p>
 
 <h4 id="apa-sih-itu-tiling-window-manager">Apa sih itu Tiling Window Manager?</h4>
 
 <p>Yang aku tau <em>tiling window manager</em> adalah <em>window manager</em> yang mengatur bagaimana aplikasi itu terbuka dengan cara membagi <em>frame</em> tanpa menumpuk atau tumpang tindih antara aplikasi <a href="https://en.wikipedia.org/wiki/Tiling_window_manager">(sumber)</a> , gampangnya sih bisa dilihat di GIF di bawah.</p>
 
-<p><img src="/assets/images/post_02_03.gif" alt="tiling" width="500" /></p>
+<p><img src="/assets/images/post_02_03.gif" alt="tiling" /></p>
 
 <p>Apa sih  yang menarik dari <em>tiling window manager</em>? keliatannya sih memang tidak menarik ya, minim animasi dan keliatannya kurang indah, tapi untuk indah sendiri sih bisa kita bicarakan, karena dalam komunitas Unixp*rn di Reddit banyak banget malah yang menggunakan tiling window manager untuk unjuk gigi keindahan desktop nya.</p>
 
-<p><img src="/assets/images/post_02_04.png" alt="unixprn" width="500" /></p>
+<p><img src="/assets/images/post_02_04.png" alt="unixprn" /></p>
 
 <p>Tapi alasan aku memakai <em>tiling window</em> bukan fokus untuk estetika, tapi efisiensi dan juga produktivitas bekerja. Seberapa produktifnya memakai Sway? seproduktif GIF di bawah ini:</p>
 
-<p><img src="/assets/images/post_02_05.gif" alt="keyboard" width="500" /></p>
+<p><img src="/assets/images/post_02_05.gif" alt="keyboard" width="700" /></p>
 
 <p>Jika kamu sadari, semua yang aku lakukan tangannya tidak lepas dari keyboard dan full semuanya menggunakan shortcut mulai dari buka browser <em>(Win+Shift+b)</em>, navigasi tab browser <em>(Alt+(1-9))</em>, buka terminal <em>(Win+Enter)</em> dll. Jadinya aku tidak terlalu memerlukan mouse untuk kegiatan sehari-hari ku.</p>
 
