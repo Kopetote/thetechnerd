@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "id-ID"
 title                    : "thetechnerd's Guides"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Farrell Azhar"
-description              : "Website untuk membantu kamu mencoba project dari Channel YouTube Farrell Azhar"
+description              : ""
 url                      : "https://thetechnerd.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Kopetote/thetechnerd.git" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Farrell Azhar"
   avatar           : "/assets/images/Yukko.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Website untuk membantu kamu mencoba project dari Channel YouTube Farrell Azhar"
+  bio              : "Riweuh adalah nama tengah saya, jangan tanya kenapa"
   location         : "Indonesia"
   email            : 
   links:
@@ -116,6 +116,9 @@ author:
     - label: "Mastodon"
       icon: "fab fa-fw fa-twitter"
       url: "https://mastodon.social/@Kopetote"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/imthetechnerd"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,13 +128,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
+#footer:
+#  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      # url:

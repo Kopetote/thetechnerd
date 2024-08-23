@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/Welcome/",
         "teaser": null
+      },{
+        "title": "Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja",
+        "excerpt":"Dari desktop jaman dulu seperti DOS yang menggunakan command-line, ke Macintosh yang sangat populer sekali dengan UI nya, sampai saat ini hampir semua orang familier dengan desktop seperti Windows dan macOS dengan floating window nya, namun bagaimana jika kamu menghilangkan floating window namun memiliki produktivitas lebih? Mungkin ini lah yang:...","categories": [],
+        "tags": [],
+        "url": "/Swaywm/",
+        "teaser": "/assets/images/post_02_01.jpg"
       }]

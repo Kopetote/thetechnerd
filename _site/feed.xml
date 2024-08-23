@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-16T17:29:00+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">thetechnerd’s Guides</title><subtitle>Website untuk membantu kamu mencoba project dari Channel YouTube Farrell Azhar</subtitle><author><name>Farrell Azhar</name></author><entry><title type="html">Selamat Datang!</title><link href="http://localhost:4000/Welcome/" rel="alternate" type="text/html" title="Selamat Datang!" /><published>2024-06-16T00:00:00+07:00</published><updated>2024-06-16T00:00:00+07:00</updated><id>http://localhost:4000/Welcome</id><content type="html" xml:base="http://localhost:4000/Welcome/"><![CDATA[<p>Halo Masyarakat Internet!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-23T11:20:49+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">thetechnerd’s Guides</title><subtitle></subtitle><author><name>Farrell Azhar</name></author><entry><title type="html">Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja</title><link href="http://localhost:4000/Swaywm/" rel="alternate" type="text/html" title="Review - Pakai Tiling Window (Sway) untuk Daily Use dan Kerja" /><published>2024-08-23T00:00:00+07:00</published><updated>2024-08-23T00:00:00+07:00</updated><id>http://localhost:4000/Swaywm</id><content type="html" xml:base="http://localhost:4000/Swaywm/"><![CDATA[<p>Dari desktop jaman dulu seperti DOS yang menggunakan <em>command-line</em>, ke Macintosh yang sangat populer sekali dengan UI nya, sampai saat ini hampir semua orang familier dengan desktop seperti Windows dan macOS dengan <em>floating window</em> nya, namun bagaimana jika kamu menghilangkan <em>floating window</em> namun memiliki produktivitas lebih? Mungkin ini lah yang: <strong>less is more</strong>.</p>
+
+<p><img src="/assets/images/post_02_02.jpg" alt="drawing" width="500" align="center" /></p>
+
+<p>Jika kamu berharap ini adalah hal yang bisa merubah bagaimana komputer itu digunakan, sebenarnya tidak juga, bahkan aku bisa bilang ini adalah desktop yang <em>janky</em> jika kamu bandingin dengan Windows dan macOS yang <em>eye-candy</em> banget buat penggunanya.</p>
+
+<p>Kenalin, Tiling Window Manager, namanya Sway.</p>
+
+<p><img src="/assets/images/post_02_07_Sway_Desktop.png" alt="tiling screenshot" width="700" /></p>
+
+<h4 id="apa-sih-itu-tiling-window-manager">Apa sih itu Tiling Window Manager?</h4>
+
+<p>Yang aku tau <em>tiling window manager</em> adalah <em>window manager</em> yang mengatur bagaimana aplikasi itu terbuka dengan cara membagi <em>frame</em> tanpa menumpuk atau tumpang tindih antara aplikasi <a href="https://en.wikipedia.org/wiki/Tiling_window_manager">(sumber)</a> , gampangnya sih bisa dilihat di GIF di bawah.</p>
+
+<p><img src="/assets/images/post_02_03.gif" alt="tiling example" width="700" /></p>
+
+<p>Apa sih  yang menarik dari <em>tiling window manager</em>? keliatannya sih memang tidak menarik ya, minim animasi dan keliatannya kurang indah, tapi untuk indah sendiri sih bisa kita bicarakan, karena dalam komunitas Unixp*rn di Reddit banyak banget malah yang menggunakan tiling window manager untuk unjuk gigi keindahan desktop nya.</p>
+
+<p><img src="/assets/images/post_02_04.png" alt="unixp*rn" /></p>
+
+<p>Tapi alasan aku memakai <em>tiling window</em> bukan fokus untuk estetika, tapi efisiensi dan juga produktivitas bekerja. Seberapa produktifnya memakai Sway? seproduktif GIF di bawah ini:</p>
+
+<p><img src="/assets/images/post_02_05.gif" alt="keyboard terus" width="700" /></p>
+
+<p>Jika kamu sadari, semua yang aku lakukan tangannya tidak lepas dari keyboard dan full semuanya menggunakan shortcut mulai dari buka browser <em>(Win+Shift+b)</em>, navigasi tab browser <em>(Alt+(1-9))</em>, buka terminal <em>(Win+Enter)</em> dll. Jadinya aku tidak terlalu memerlukan mouse untuk kegiatan sehari-hari ku.</p>
+
+<p>Namun untuk bisa mencapai <em>goal</em> menggunakan Sway dengan full keyboard kamu harus fokus menggunakan aplikasi CLI (command-line interface). Aku sekarang mulai mengerti mengapa VIM bisa populer dikalangan pengguna Linux, karena VIM menurutku keyboard focused, untuk navigasi saja seperti kiri - bawah - atas - kanan menggunakan h - j - k - l, keliatannya memang tidak <em>make sense</em> tapi setelah aku mencobanya ternyata aku mengerti letak <em>sense</em> nya di mana. Karena itu CLI biasanya berfokus dengan keyboard shortcut ketimbang aplikasi dengan GUI (Graphic User Interface) yang mementingan <em>user-friendly</em> agar mudah dipakai oleh pengguna.</p>
+
+<p><img src="/assets/images/post_02_06.jpg" alt="quit vim" width="700" /></p>
+
+<p>Lalu kelebihan lain Sway yang patut diapresiasi adalah <em>awareness</em> akan aplikasi yang kamu buka. Pasti pernah kan buka aplikasi Adobe atau Microsoft Word seharian padahal aplikasinya engga dipake? Karena Sway engga ada <em>dock</em> / <em>taskbar</em> dan semua aplikasi engga ada yang tumpang tindih kamu jadi lebih aware sama aplikasi yang kamu buka dan membuat resource komputer kamu lebih sedikit.</p>
+
+<p>Namun dengan produktivitas setinggi itu, tentunya butuh <em>learning curves</em> yang sangat tinggi pula. Jika ngebahas Sway sendiri, kamu benar-benar tidak dikasih guide pada desktop nya, terkadang ada distro yang memberikan <em>guide</em> di desktopnya, namun itu hanya dasar sekali dan banyak <em>possibilities</em> yang sebenarnya. Dengan itu kamu terpaksa harus membaca <em>guide</em> seperti di sini <a href="https://wiki.garudalinux.org/en/sway-cheatsheet">Garuda Linux Sway Wiki</a>. Sumpah, rasanya tuh kaya belajar komputer lagi dari awal, rasanya seperti kamu baru pakai komputer dengan Windows 98… semacam itu lah.</p>
+
+<p><img src="https://media1.tenor.com/m/pTPPHO2RdMsAAAAC/spongebob-patrick-star.gif" width="500" /></p>
+
+<p>Selain <em>learning curves</em> yang sangat tinggi, ini sedikit bertolak belakang dengan produktivitas yang aku bahas di atas, tapi aku malah lebih banyak ngulik menggunakan Sway daripada melakukan kerjaan yang sebenarnya, karena banyak <em>possibilities</em> tadi malah membuat aku penasaran dan malah coba-coba yang lain, bisa jadi kerjaan ku engga beres, tapi malah posting di Unixp*rn, sangat produktif.</p>
+
+<p>Untuk mencegah ini terjadi, aku selalu backup hal apa saja yang aku install, setup, dan juga ulik-ulik di notes yang ku simpan di Nextcloud, jadi kalau aku install ulang (dengan alasan apa saja itu), jadi hanya tinggal <em>copy-paste</em> dan semuanya sudah seperti semula. Hal ini pernah aku coba di laptop Thinkpad-ku yang aku coba install ulang, dan coba memasukkan semua <em>command</em> yang pernah aku masukkan dan rasanya laptopku kembali seperti semula, kecuali storage yang lowong.</p>
+
+<p><img src="https://media1.tenor.com/m/Hz0fHyUQzfwAAAAC/spider-man-uncle-ben.gif" width="500" /></p>
+
+<p>Katanya sih <em>“With great power comes great responsibility”</em>, dan menurutku menggunakan <em>tiling window manager</em> atau khsusunya Sway di sini bisa jadi dua mata pedang antara produktif dan juga tidak produktif. Aku sendiri menggunakan Sway baru sekarang-sekarang saja bisa sampai selama ini, dulu seringnya pakai sebentar, lalu kembali lagi ke KDE atau Gnome karena tidak tau esensi memakai <em>tiling window manager</em>, namun setelah memakainya lagi selama 1 bulan lebih, akhirnya aku tau, terkadang dengan mengurangi sesuatu kamu bisa dapat lebih.</p>
+
+<hr />
+<p>Jika menurut kamu konten ku bermanfaat dan patut untuk di apresiasi, kamu bisa Say Hai! ke:</p>
+<ul>
+  <li>Email: <a href="mailto:methetechnerd@duck.com">methetechnerd@duck.com</a></li>
+  <li>Mastodon:<a href="https://mastodon.social/@Kopetote">@Kopetote</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/imthetechnerd/">@imthetechnerd</a></li>
+</ul>
+
+<p>atau <strong>donasi</strong> ke <a href="https://saweria.co/kopetote">Saweria</a></p>
+
+<!-- Local Variables: -->
+<!-- jinx-languages: "id_ID" -->
+<!-- End: -->]]></content><author><name>Farrell Azhar</name></author><summary type="html"><![CDATA[Dari desktop jaman dulu seperti DOS yang menggunakan command-line, ke Macintosh yang sangat populer sekali dengan UI nya, sampai saat ini hampir semua orang familier dengan desktop seperti Windows dan macOS dengan floating window nya, namun bagaimana jika kamu menghilangkan floating window namun memiliki produktivitas lebih? Mungkin ini lah yang: less is more.]]></summary></entry><entry><title type="html">Selamat Datang!</title><link href="http://localhost:4000/Welcome/" rel="alternate" type="text/html" title="Selamat Datang!" /><published>2024-06-16T00:00:00+07:00</published><updated>2024-06-16T00:00:00+07:00</updated><id>http://localhost:4000/Welcome</id><content type="html" xml:base="http://localhost:4000/Welcome/"><![CDATA[<p>Halo Masyarakat Internet!</p>
 
 <p>Selamat datang di Github Page-ku. Github Pages ini akan menjadi blog untuk project-project engga ngotak / ngotak yang aku lakukan, seperti menggunakan iPhone IMEI ter block, menggunakan Arch Linux tanpa archinstall di laptop kerja, menggunakan komputer full TTY / CLI sebagai wind down computer, dan project lainnya lagi.</p>
 
@@ -10,8 +66,8 @@
 
 <p>Say Halo ke:</p>
 <ul>
-  <li>Email: <a href="mailto:methetechnerd@duck.com">Email</a></li>
-  <li>Mastodon:<a href="https://mastodon.social/@Kopetote">Mastodon</a></li>
+  <li>Email: <a href="mailto:methetechnerd@duck.com">methetechnerd@duck.com</a></li>
+  <li>Mastodon:<a href="https://mastodon.social/@Kopetote">@Kopetote</a></li>
 </ul>
 
-<p>Donasi: <a href="https://saweria.com/kopetote">Saweria</a></p>]]></content><author><name>Farrell Azhar</name></author><summary type="html"><![CDATA[Halo Masyarakat Internet!]]></summary></entry></feed>
+<p>Donasi: <a href="https://saweria.co/kopetote">Saweria</a></p>]]></content><author><name>Farrell Azhar</name></author><summary type="html"><![CDATA[Halo Masyarakat Internet!]]></summary></entry></feed>
